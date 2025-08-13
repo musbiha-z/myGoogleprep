@@ -1,13 +1,12 @@
- # HEAD
-
-print('hello world!')
+name = input('what is your name? ')
 
 
-import sys
-print(sys.version)
 
 
-print ('hello, i am starting my google prep')
+print('hello' , name)
+
+
+
 
 
 
