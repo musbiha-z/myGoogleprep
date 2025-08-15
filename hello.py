@@ -1,19 +1,4 @@
-name = input('what is your name? ')
 
+print('hello world!')
 
-
-
-print('hello' , name)
-
-
-
-
-
-
-
-
-
-
-
-
-
+print ('hello, i am starting my google prep')
